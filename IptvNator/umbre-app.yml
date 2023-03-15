@@ -1,0 +1,25 @@
+manifestVersion: 1
+id: iptvnator
+name: IpTvNator
+tagline: Iptv
+icon: https://raw.githubusercontent.com/4gray/iptvnator/electron/src/assets/icons/favicon.256x256.png
+category: Development
+version: "1.0.0"
+port: 4000
+description: >-
+ Test iptvnator
+developer: Umbrel
+website: https://github.com/4gray/iptvnator
+submitter: telmat
+submission: 
+repo: 
+support: 
+gallery:
+  - https://github.com/4gray/iptvnator/raw/electron/iptv-dark-theme.png
+
+releaseNotes: >-
+  Add what's new in the latest version of your app here.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
