@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: iptvnator
+id: telmatnet-iptvnator
 name: IpTvNator
 tagline: Iptv
 icon: https://raw.githubusercontent.com/4gray/iptvnator/electron/src/assets/icons/favicon.256x256.png
