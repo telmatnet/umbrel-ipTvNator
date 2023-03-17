@@ -11,9 +11,9 @@ description: >-
 developer: Umbrel
 website: https://github.com/4gray/iptvnator
 submitter: telmat
-submission: 
-repo: 
-support: 
+submission: https://github.com/telmatnet/umbrel-ipTvNator/
+repo: https://github.com/telmatnet/umbrel-ipTvNator/
+support: https://github.com/telmatnet/umbrel-ipTvNator
 gallery:
   - https://github.com/4gray/iptvnator/raw/electron/iptv-dark-theme.png
 
